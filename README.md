@@ -1,2 +1,2 @@
 # TVSMarcoPolo-back-master
- Map a windows app to a HTML UI and control it remotely
+ Map a windows app to a HTML UI and control it remotely with a browser
